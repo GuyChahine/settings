@@ -1,0 +1,88 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.startupEditor": "none",
+    "jupyter.askForKernelRestart": false,
+    "workbench.colorCustomizations": {},
+    "window.customMenuBarAltFocus": false,
+    "window.enableMenuBarMnemonics": false,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "todohighlight.defaultStyle": {
+
+
+    },
+    "todohighlight.keywords": [
+        {
+            "text": "TODO:",
+            "color": "black",
+            "backgroundColor": "#09d500",
+        },
+        {
+            "text": "FIXME:",
+            "color": "black",
+            "backgroundColor": "#FF79EB",
+        },
+        {
+            "text": "HACK:",
+            "color": "black",
+            "backgroundColor": "#9B4DFF",
+        },
+        {
+            "text": "BUG:",
+            "color": "black",
+            "backgroundColor": "#E30000",
+        },
+        {
+            "text": "NOTE:",
+            "color": "black",
+            "backgroundColor": "#5EE9FF",
+        },
+        {
+            "text": "OPTIMIZE:",
+            "color": "black",
+            "backgroundColor": "#3264FF",
+        },
+        {
+            "text": "REVIEW:",
+            "color": "black",
+            "backgroundColor": "#FFBD00",
+        },
+        {
+            "text": "TEST:",
+            "color": "black",
+            "backgroundColor": "#FFFFFF",
+        },
+        {
+            "text": "DEPRECATED:",
+            "color": "black",
+            "backgroundColor": "#53FFD3",
+        },
+        {
+            "text": "TEMPORARY:",
+            "color": "black",
+            "backgroundColor": "#DF6900",
+        },
+
+
+    ],
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "todohighlight.include": [
+        "**/*.js",
+        "**/*.jsx",
+        "**/*.ts",
+        "**/*.tsx",
+        "**/*.html",
+        "**/*.css",
+        "**/*.scss",
+        "**/*.php",
+        "**/*.rb",
+        "**/*.txt",
+        "**/*.mdown",
+        "**/*.md",
+        "**/*.py"
+    ],
+    "python.defaultInterpreterPath": "/home/guy/miniconda3/bin/python"
+}
