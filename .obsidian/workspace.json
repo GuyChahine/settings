@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "e0bf8ef4318969df",
+    "type": "split",
+    "children": [
+      {
+        "id": "87a9765b6724f5cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "531229550d0a924a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f73a7ff90b90996",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae5e660faa91d6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b38cd98b9bb8a57f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a9aae2a14adadbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2bbba6425e208b1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc6ed6d89b237a9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "45dd2d90d6eb68b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bdcb26fc52f6e13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eef0ad5af37be5d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8deace65f831cc40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad7e6a456d59c708",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "This is a title.md"
+              }
+            }
+          },
+          {
+            "id": "1902fafb90c7ec81",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "notion-like-tables:Create new loom": false
+    }
+  },
+  "active": "b38cd98b9bb8a57f",
+  "lastOpenFiles": [
+    "This is a title.md",
+    "Second Note.md",
+    "assets/Pasted image 20230917224346.png",
+    "assets",
+    "Untitled.loom"
+  ]
+}
