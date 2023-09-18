@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "87a9765b6724f5cc",
+        "id": "e6572ba897a1e8eb",
         "type": "tabs",
         "children": [
           {
-            "id": "531229550d0a924a",
+            "id": "70a1a5aea74c4eeb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "This is a title.md"
+                "file": "README.md"
               }
             }
           },
@@ -150,8 +156,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "b38cd98b9bb8a57f",
+  "active": "70a1a5aea74c4eeb",
   "lastOpenFiles": [
+    "Project Specifications/Problematic/How a model can follow a scenario.md",
+    "Project Specifications/Problematic/Untitled.md",
     "This is a title.md",
     "Second Note.md",
     "assets/Pasted image 20230917224346.png",
