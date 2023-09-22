@@ -28,5 +28,6 @@
   "minimal-style@@image-muted": 1,
   "minimal-style@@bold-color@@dark": "#FFAE00",
   "minimal-style@@bold-color@@light": "#FFAE00",
-  "minimal-advanced@@cursor": "default"
+  "minimal-advanced@@cursor": "default",
+  "minimal-advanced@@font-ui-small": 13
 }

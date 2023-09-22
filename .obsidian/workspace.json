@@ -4,19 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "e6572ba897a1e8eb",
+        "id": "52f7d7e07b844304",
         "type": "tabs",
         "children": [
           {
-            "id": "70a1a5aea74c4eeb",
+            "id": "936a4c52643b3481",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Project Specifications/Problematic.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "84d0f133bed269e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53f449d411f289b8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Architecture v1.0.0/Diagram.canvas",
+                "viewState": {
+                  "x": 3300,
+                  "y": 800,
+                  "zoom": -2.0272043580609385
+                }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Architecture v1.0.0/Diagram.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Architecture v1.0.0/Diagram.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Architecture v1.0.0/Diagram.canvas"
               }
             }
           },
@@ -142,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,14 +180,54 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "70a1a5aea74c4eeb",
+  "active": "53f449d411f289b8",
   "lastOpenFiles": [
+    "Architecture v1.0.0/Diagram.png",
+    "Project Specifications/Problematic.md",
+    "Architecture v1.0.0/Story Teller.md",
+    "Architecture v1.0.0/Diagram.canvas",
+    "Architecture v1.0.0/Solution Checker.md",
+    "Architecture v1.0.0/Context Checker.md",
+    "Architecture v1.0.0/Node Information.md",
+    "Architecture v1.0.0/Scenario.md",
+    "Architecture v1.0.0/User.md",
+    "Architecture v1.0.0/assets/Pasted image 20230921114647.jpg",
+    "Architecture v1.0.0/User Information.md",
+    "embedding-testing/testing.ipynb",
+    "Architecture v1.0.0/Embedded Vectors.md",
+    "Architecture v1.0.0/User Input Preprocessing.md",
+    "Project Specifications/Scenarios/Acute Pulmonary Histoplasmosis.md",
     "Project Specifications/Problematic/How a model can follow a scenario.md",
-    "Project Specifications/Problematic/Untitled.md",
-    "This is a title.md",
-    "Second Note.md",
-    "assets/Pasted image 20230917224346.png",
-    "assets",
-    "Untitled.loom"
+    "Project Specifications/Problematic/How to evaluate a model.md",
+    "Project Specifications/Problematic/How to create a scenario.md",
+    "Project Specifications/Other/Word Embedding.md",
+    "Project Specifications/Other/Dataset.md",
+    "Project Specifications/Other/Vector Similarity.md",
+    "Project Specifications/What is/scenario.md",
+    "Architecture v1.0.0/State Manager.md",
+    "Architecture v1.0.0/OR.md",
+    "Architecture v1.0.0/assets/Pasted image 20230921112102.jpg",
+    "Architecture v1.0.0/User Input.md",
+    "Architecture v1.0.0/Abstract Vector.md",
+    "Architecture v1.0.0/Site/Site.canvas",
+    "Architecture/Untitled.md",
+    "Architecture v1.0.0/Site.md",
+    "Architecture v1.0.0/assets/Pasted image 20230920170958.png",
+    "Architecture v1.0.0/assets",
+    "Architecture v1.0.0/Site",
+    "Architecture/assets/Pasted image 20230920160517.png",
+    "Architecture/assets/Pasted image 20230920160547.png",
+    "Architecture/LLM.md",
+    "Project Specifications/Other",
+    "embedding-testing/embedding/__pycache__/tools.cpython-311.pyc",
+    "embedding-testing/embedding/__pycache__/similarity_calculation.cpython-311.pyc",
+    "embedding-testing/embedding/__pycache__/__init__.cpython-311.pyc",
+    "embedding-testing/embedding/__pycache__",
+    "embedding-testing/embeddings-test.ipynb",
+    "embedding-testing/embedding/tools.py",
+    "Project Specifications/What is/assets/Pasted image 20230919103611.png",
+    "Project Specifications/What is/assets/Pasted image 20230919103553.png",
+    "Project Specifications/What is/assets/Pasted image 20230919103358.png",
+    "Project Specifications/What is/assets/Pasted image 20230919103309.png"
   ]
 }
